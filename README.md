@@ -6,4 +6,7 @@ AG1280采用QFN-48 6x6轻薄封装，成本超低且功率超低。该器件具�
 
 AG1280 的售价极具竞争力。
 
+- [核心板原理图](<./doc/schematic design.pdf>)
+- [制板文件](<../../releases>)
+
 ![TOP](./image/top.jpeg)
